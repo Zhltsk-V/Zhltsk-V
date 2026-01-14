@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer+%7C+SDET+Java;Backend+%26+API+Test+Automation;E2E+Testing+%7C+CI%2FCD+%7C+Test+Infrastructure" />
 </p>
 
-## 🧪 QA Automation Engineer | SDET (Java)
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" />
+## QA Automation Engineer | SDET (Java)
 
 ---
 
@@ -102,36 +100,8 @@ Open-source service for emulating inbound and outbound SIP calls in end-to-end t
 
 ---
 
-#### 🔹 Test Automation Framework (Enterprise)
-
-**Java · JUnit 5 · Selenide · REST Assured · Allure · Jenkins**
-
-Enterprise-grade automation framework for web UI, API, and integration testing.
-
-* Clean architecture with business logic extracted from tests
-* Stable E2E pipelines with flaky-test reduction
-* CI/CD integration and detailed Allure reporting
-
----
-
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhltsk-V&theme=github-dark" />
-</p>
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhltsk-V\&show_icons=true\&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhltsk-V\&layout=compact\&theme=dark)
-
----
-
 ### 🌍 Connect with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/V_Zhilitskiy)
 
 ---
-
-💡 *"Good tests are invisible when everything works — and invaluable when it doesn't."*
