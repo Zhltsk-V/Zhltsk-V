@@ -9,26 +9,26 @@
 ---
 
 ## 🌍 About me | EN
-[cite_start]QA Automation Engineer with **over 3 years of experience**  in Java-based test automation. 
+QA Automation Engineer with **over 3 years of experience** in Java-based test automation.  
 
 **Focus areas:**
-* [cite_start]**Backend & API** automation testing [cite: 74]
-* [cite_start]**Web UI** automation (Selenide / Selenium) [cite: 26, 34, 55]
-* [cite_start]Designing **custom test tools and infrastructure** to enhance E2E stability [cite: 75, 77]
+* **Backend & API** automation testing
+* **Web UI** automation (Selenide / Selenium)
+* Designing **custom test tools and infrastructure** to enhance E2E stability
 
-[cite_start]I have hands-on experience building specialized services for test environments (like SIP emulation), integrating automation into CI/CD pipelines, and significantly reducing flaky tests[cite: 27, 50].
+I have hands-on experience building specialized services for test environments (like SIP emulation), integrating automation into CI/CD pipelines, and significantly reducing flaky tests.
 
 ---
 
 ## 🌍 Обо мне | RU
-[cite_start]QA Automation Engineer с **более чем 3-летним опытом**  автоматизации тестирования на Java.
+QA Automation Engineer с **более чем 3-летним опытом** автоматизации тестирования на Java.  
 
 **Основная специализация:**
-* [cite_start]Автоматизация **backend и API** тестирования [cite: 74]
-* [cite_start]Автоматизация тестирования **web-интерфейсов** [cite: 55, 74]
-* [cite_start]Проектирование **тестовых инструментов и инфраструктуры** для стабильного E2E [cite: 75, 77]
+* Автоматизация **backend и API** тестирования
+* Автоматизация тестирования **web-интерфейсов**
+* Проектирование **тестовых инструментов и инфраструктуры** для стабильного E2E
 
-[cite_start]Имею опыт разработки отдельных сервисов и утилит для автотестов (например, сервис эмуляции SIP-звонков), интеграции тестирования в CI/CD и снижения количества flaky-тестов[cite: 27, 50].
+Имею опыт разработки отдельных сервисов и утилит для автотестов (например, сервис эмуляции SIP-звонков), интеграции тестирования в CI/CD и снижения количества flaky-тестов.
 
 ---
 
@@ -64,21 +64,22 @@
 ### ⭐ Featured Projects
 
 #### 🔹 [SIP Call Emulation Service](https://github.com/NazarWillmann/java_sipp_api_service)
-[cite_start]**Java 17 · Spring Boot · SIPP · REST API** 
-[cite_start]Open-source service designed for end-to-end testing of contact center systems by emulating SIP calls.
+**Java 17 · Spring Boot · SIPP · REST API**  
+Open-source service designed for end-to-end testing of contact center systems by emulating SIP calls.
 
-* [cite_start]**Call Lifecycle:** Full modeling of states (inbound/outbound, DTMF, hangup).
-* [cite_start]**Resource Management:** Implemented active call registry and port allocation with collision protection[cite: 28].
-* [cite_start]**Observability:** Structured logging and auto-cleanup of frozen processes[cite: 29].
-* [cite_start]**Stability:** Reduced resource leaks and improved detection of SIPP failures[cite: 28, 29].
+* **Call Lifecycle:** Full modeling of states (inbound/outbound, DTMF, hangup)
+* **Resource Management:** Implemented active call registry and port allocation with collision protection
+* **Observability:** Structured logging and auto-cleanup of frozen processes
+* **Stability:** Reduced resource leaks and improved detection of SIPP failures
 
 ---
 
 ### 🌍 Connect with me
-[cite_start][![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/V_Zhilitskiy) 
-[cite_start][![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vzhilitskiy@gmail.com) [cite: 4]
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/V_Zhilitskiy) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vzhilitskiy@gmail.com)
 
 ---
+
 <p align="center">
   <i>"I believe in engineering-driven QA and scalable automation."</i>
 </p>
